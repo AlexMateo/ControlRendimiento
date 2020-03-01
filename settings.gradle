@@ -1,0 +1,2 @@
+rootProject.name='ControlRendimiento'
+include ':app'

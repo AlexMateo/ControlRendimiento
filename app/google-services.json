@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "384988302382",
+    "firebase_url": "https://proyecto-e38e8.firebaseio.com",
+    "project_id": "proyecto-e38e8",
+    "storage_bucket": "proyecto-e38e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384988302382:android:67e8d4c8788608535263bf",
+        "android_client_info": {
+          "package_name": "com.example.controlrendimiento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384988302382-s75otq0oc50l8uili76ipn0o2lemjod1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.controlrendimiento",
+            "certificate_hash": "25dd4fc6182e30579351523fcaeedb09b1da7699"
+          }
+        },
+        {
+          "client_id": "384988302382-kggq9b5ibi9o0gimhai24sm1015iadph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbWmkgLr2bbJBnu9WXoDRDJ_1IjmF2xTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384988302382-kggq9b5ibi9o0gimhai24sm1015iadph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
